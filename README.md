@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abhitya Krishnaraj
 # 💫 About Me:
-🔭 I’m currently in my senior year of college at UIUC studying computer engineering. Passionate about data analytics, machine learning, and exploring the world.
+🔭 Just graduated from UIUC with a Bachelors of Science in computer engineering. Looking for opportunities in consulting, data science, and software engineering. Passionate about data analytics, machine learning, and exploring the world.
 
 
 ## 🌐 Socials:
